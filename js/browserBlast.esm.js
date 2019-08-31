@@ -8,7 +8,7 @@
 
 ------------------------------------------------------------*/
 
-const browserBlast = (options) => {
+var browserBlast = function(options) {
 
 	"use strict";
 
