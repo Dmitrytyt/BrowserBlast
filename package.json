@@ -3,6 +3,8 @@
   "version": "2.0.0",
   "description": "Pack from markgoodyear",
   "main": "js/browserBlast.js",
+  "module": "js/browserBlast.esm.js",
+  "name": "browser-blast",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

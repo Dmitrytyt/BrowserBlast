@@ -8,7 +8,7 @@
 
 ------------------------------------------------------------*/
 
-;var browserBlast = function (options) {
+const browserBlast = (options) => {
 
 	"use strict";
 
@@ -44,5 +44,6 @@
 	if (version > -1 && version < supportedIE + ".0" || devMode === true)  {
 		warningSetup();
 	}
-
 };
+
+export default browserBlast;
