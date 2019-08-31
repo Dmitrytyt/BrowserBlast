@@ -1,0 +1,19 @@
+{
+  "name": "browserblast",
+  "version": "2.0.0",
+  "description": "Pack from markgoodyear",
+  "main": "js/browserBlast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitrytyt/BrowserBlast.git"
+  },
+  "author": "Mark Goodyear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmitrytyt/BrowserBlast/issues"
+  },
+  "homepage": "https://github.com/Dmitrytyt/BrowserBlast#readme"
+}
